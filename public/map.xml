@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2022-05-15 22:06">
+<yml_catalog date="2022-05-15 22:11">
     <shop>
         <name>Интернет магазин idiali</name>
         <company>ТМ idiali</company>
@@ -2958,9 +2958,7 @@
                         <description>Женский повседневный классический сарафан вельвет СУПЕР БАТАЛ
 Размеры: 58,60
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/13f03bef-7f9c-49bf-b577-164e93fd5a9a.jpg</picture>
-                                                            <picture>http://localhost/img/5df08618-be25-4c4f-8a57-17fa784daee9.jpg</picture>
-                                                                                                        <categoryId>8</categoryId>
+                                                                                                                                <categoryId>8</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">60</param>
                                                             <param name="цвет">Бежевый</param>
@@ -5753,10 +5751,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/15f9f194-f9de-4f06-a7ad-892241270000.jpg</picture>
-                                                            <picture>http://localhost/img/e94d6a64-a999-4dc6-a5f1-6ad40f354661.jpg</picture>
-                                                            <picture>http://localhost/img/dc508040-67d7-454b-a78c-c63c1a757be8.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">116</param>
                                                             <param name="цвет">Бежевый</param>
@@ -5776,10 +5771,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/15f9f194-f9de-4f06-a7ad-892241270000.jpg</picture>
-                                                            <picture>http://localhost/img/e94d6a64-a999-4dc6-a5f1-6ad40f354661.jpg</picture>
-                                                            <picture>http://localhost/img/dc508040-67d7-454b-a78c-c63c1a757be8.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">122</param>
                                                             <param name="цвет">Бежевый</param>
@@ -5799,10 +5791,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/15f9f194-f9de-4f06-a7ad-892241270000.jpg</picture>
-                                                            <picture>http://localhost/img/e94d6a64-a999-4dc6-a5f1-6ad40f354661.jpg</picture>
-                                                            <picture>http://localhost/img/dc508040-67d7-454b-a78c-c63c1a757be8.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">128</param>
                                                             <param name="цвет">Бежевый</param>
@@ -5822,10 +5811,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/15f9f194-f9de-4f06-a7ad-892241270000.jpg</picture>
-                                                            <picture>http://localhost/img/e94d6a64-a999-4dc6-a5f1-6ad40f354661.jpg</picture>
-                                                            <picture>http://localhost/img/dc508040-67d7-454b-a78c-c63c1a757be8.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">134</param>
                                                             <param name="цвет">Бежевый</param>
@@ -5845,9 +5831,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/dfbf4925-0ca3-4a0b-b5e1-c6a85edf8891.jpg</picture>
-                                                            <picture>http://localhost/img/349bfce9-4fa7-4328-ba3c-f04db5971af5.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">116</param>
                                                             <param name="цвет">Джинс</param>
@@ -5867,9 +5851,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/dfbf4925-0ca3-4a0b-b5e1-c6a85edf8891.jpg</picture>
-                                                            <picture>http://localhost/img/349bfce9-4fa7-4328-ba3c-f04db5971af5.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">122</param>
                                                             <param name="цвет">Джинс</param>
@@ -5889,9 +5871,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/dfbf4925-0ca3-4a0b-b5e1-c6a85edf8891.jpg</picture>
-                                                            <picture>http://localhost/img/349bfce9-4fa7-4328-ba3c-f04db5971af5.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">128</param>
                                                             <param name="цвет">Джинс</param>
@@ -5911,9 +5891,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/dfbf4925-0ca3-4a0b-b5e1-c6a85edf8891.jpg</picture>
-                                                            <picture>http://localhost/img/349bfce9-4fa7-4328-ba3c-f04db5971af5.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">134</param>
                                                             <param name="цвет">Джинс</param>
@@ -5933,9 +5911,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/59e1d964-eb65-4d27-96e0-f88da794db62.jpg</picture>
-                                                            <picture>http://localhost/img/c63b2ae0-01e5-4a7d-ad1f-0b69d08df093.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">116</param>
                                                             <param name="цвет">Красный</param>
@@ -5955,9 +5931,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/59e1d964-eb65-4d27-96e0-f88da794db62.jpg</picture>
-                                                            <picture>http://localhost/img/c63b2ae0-01e5-4a7d-ad1f-0b69d08df093.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">122</param>
                                                             <param name="цвет">Красный</param>
@@ -5996,9 +5970,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/59e1d964-eb65-4d27-96e0-f88da794db62.jpg</picture>
-                                                            <picture>http://localhost/img/c63b2ae0-01e5-4a7d-ad1f-0b69d08df093.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">128</param>
                                                             <param name="цвет">Красный</param>
@@ -6018,10 +5990,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/376190c9-322c-40c3-ac78-8042d3b085b7.jpg</picture>
-                                                            <picture>http://localhost/img/8f02bac3-7c68-422f-88ef-96239c52cb51.jpg</picture>
-                                                            <picture>http://localhost/img/8c77872e-2d14-412b-ae52-051fca3bb581.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">116</param>
                                                             <param name="цвет">Пудра</param>
@@ -6041,10 +6010,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/376190c9-322c-40c3-ac78-8042d3b085b7.jpg</picture>
-                                                            <picture>http://localhost/img/8f02bac3-7c68-422f-88ef-96239c52cb51.jpg</picture>
-                                                            <picture>http://localhost/img/8c77872e-2d14-412b-ae52-051fca3bb581.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">122</param>
                                                             <param name="цвет">Пудра</param>
@@ -6064,10 +6030,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/376190c9-322c-40c3-ac78-8042d3b085b7.jpg</picture>
-                                                            <picture>http://localhost/img/8f02bac3-7c68-422f-88ef-96239c52cb51.jpg</picture>
-                                                            <picture>http://localhost/img/8c77872e-2d14-412b-ae52-051fca3bb581.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">128</param>
                                                             <param name="цвет">Пудра</param>
@@ -6087,9 +6050,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/0e629750-50c0-4fa0-9861-e425c3d90f2f.jpg</picture>
-                                                            <picture>http://localhost/img/fdabf873-569d-4b86-b411-c9415b8e59ca.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">116</param>
                                                             <param name="цвет">Синий</param>
@@ -6109,9 +6070,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/0e629750-50c0-4fa0-9861-e425c3d90f2f.jpg</picture>
-                                                            <picture>http://localhost/img/fdabf873-569d-4b86-b411-c9415b8e59ca.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">122</param>
                                                             <param name="цвет">Синий</param>
@@ -6131,9 +6090,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/0e629750-50c0-4fa0-9861-e425c3d90f2f.jpg</picture>
-                                                            <picture>http://localhost/img/fdabf873-569d-4b86-b411-c9415b8e59ca.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">128</param>
                                                             <param name="цвет">Синий</param>
@@ -6153,9 +6110,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/0e629750-50c0-4fa0-9861-e425c3d90f2f.jpg</picture>
-                                                            <picture>http://localhost/img/fdabf873-569d-4b86-b411-c9415b8e59ca.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">134</param>
                                                             <param name="цвет">Синий</param>
@@ -6175,9 +6130,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/b3608603-c143-4430-a45b-5643252eff00.jpg</picture>
-                                                            <picture>http://localhost/img/26a84e40-847e-4ccc-b7e5-0225da379e68.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">116</param>
                                                             <param name="цвет">Черный</param>
@@ -6197,9 +6150,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/b3608603-c143-4430-a45b-5643252eff00.jpg</picture>
-                                                            <picture>http://localhost/img/26a84e40-847e-4ccc-b7e5-0225da379e68.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">122</param>
                                                             <param name="цвет">Черный</param>
@@ -6219,9 +6170,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/b3608603-c143-4430-a45b-5643252eff00.jpg</picture>
-                                                            <picture>http://localhost/img/26a84e40-847e-4ccc-b7e5-0225da379e68.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">128</param>
                                                             <param name="цвет">Черный</param>
@@ -6241,9 +6190,7 @@
                         <description>Детский сарафан вельвет
 Размеры: 116,122,128,134
 Ткань: вельвет</description>
-                                                                                    <picture>http://localhost/img/b3608603-c143-4430-a45b-5643252eff00.jpg</picture>
-                                                            <picture>http://localhost/img/26a84e40-847e-4ccc-b7e5-0225da379e68.jpg</picture>
-                                                                                                        <categoryId>20</categoryId>
+                                                                                                                                <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">134</param>
                                                             <param name="цвет">Черный</param>
@@ -6403,8 +6350,7 @@
                         <description>Женский батник (худи) трехнитка/начес
 Размер: 42-48 (oversize)
 Ткань: трехнитка с начесом</description>
-                                                                                    <picture>http://localhost/img/00ad40c8-8836-4817-af02-d2a020c861e4.jpg</picture>
-                                                            <picture>http://localhost/img/5e3b9bf6-6959-4dd5-9d50-ee3399527233.jpg</picture>
+                                                                                    <picture>http://localhost/img/5e3b9bf6-6959-4dd5-9d50-ee3399527233.jpg</picture>
                                                                                                         <categoryId>9</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">1</param>
@@ -7441,11 +7387,11 @@
                         <description>Женский велюровый спортивный костюм  на змейке
 Размеры: 50,52,54,56
 Ткань: велюр</description>
-                                                                                    <picture>http://localhost/img/cafc761c-c165-4b65-a0b7-b9422d93d6a4.jpg</picture>
+                                                                                    <picture>http://localhost/img/e133cdcb-bede-46ab-8fa7-c75c3b224dca.jpg</picture>
+                                                            <picture>http://localhost/img/cafc761c-c165-4b65-a0b7-b9422d93d6a4.jpg</picture>
                                                             <picture>http://localhost/img/c9019276-6f55-46e2-b5b3-8ee5008bff92.jpg</picture>
                                                             <picture>http://localhost/img/a6c480fd-b3e6-471d-b853-34d34059f849.jpg</picture>
                                                             <picture>http://localhost/img/d19adcdd-a5cc-49fe-a2f0-93fc1d9d1e63.jpg</picture>
-                                                            <picture>http://localhost/img/e133cdcb-bede-46ab-8fa7-c75c3b224dca.jpg</picture>
                                                                                                         <categoryId>7</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">52</param>
@@ -7487,8 +7433,8 @@
                             <opt_price>340</opt_price>
                         </prices>
                         <description></description>
-                                                                                    <picture>http://localhost/img/e35a7f85-41e7-4364-bbfc-577327768da9.jpg</picture>
-                                                            <picture>http://localhost/img/f6dca441-807f-46fa-aeb1-1c0efd0014a0.jpg</picture>
+                                                                                    <picture>http://localhost/img/f6dca441-807f-46fa-aeb1-1c0efd0014a0.jpg</picture>
+                                                            <picture>http://localhost/img/e35a7f85-41e7-4364-bbfc-577327768da9.jpg</picture>
                                                                                                         <categoryId>7</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">42</param>
@@ -13146,7 +13092,9 @@
                         <description>Женский повседневный классический сарафан вельвет БАТАЛ
 Размеры: 50,52,54,56
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>8</categoryId>
+                                                                                    <picture>http://localhost/img/13f03bef-7f9c-49bf-b577-164e93fd5a9a.jpg</picture>
+                                                            <picture>http://localhost/img/5df08618-be25-4c4f-8a57-17fa784daee9.jpg</picture>
+                                                                                                        <categoryId>8</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">52</param>
                                                             <param name="цвет">Бежевый</param>
@@ -13166,7 +13114,9 @@
                         <description>Женский повседневный классический сарафан вельвет БАТАЛ
 Размеры: 50,52,54,56
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>8</categoryId>
+                                                                                    <picture>http://localhost/img/13f03bef-7f9c-49bf-b577-164e93fd5a9a.jpg</picture>
+                                                            <picture>http://localhost/img/5df08618-be25-4c4f-8a57-17fa784daee9.jpg</picture>
+                                                                                                        <categoryId>8</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">54</param>
                                                             <param name="цвет">Бежевый</param>
@@ -13186,7 +13136,9 @@
                         <description>Женский повседневный классический сарафан вельвет БАТАЛ
 Размеры: 50,52,54,56
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>8</categoryId>
+                                                                                    <picture>http://localhost/img/13f03bef-7f9c-49bf-b577-164e93fd5a9a.jpg</picture>
+                                                            <picture>http://localhost/img/5df08618-be25-4c4f-8a57-17fa784daee9.jpg</picture>
+                                                                                                        <categoryId>8</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">56</param>
                                                             <param name="цвет">Бежевый</param>
@@ -13294,7 +13246,9 @@
                         <description>Женский повседневный классический сарафан вельвет БАТАЛ
 Размеры: 50,52,54,56
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>8</categoryId>
+                                                                                    <picture>http://localhost/img/e5a5f09a-ab0a-4b33-97fd-bf3c644c072a.jpg</picture>
+                                                            <picture>http://localhost/img/3b18497f-ead0-45d2-8c52-eb858f7ffe8e.jpg</picture>
+                                                                                                        <categoryId>8</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">52</param>
                                                             <param name="цвет">Пудра</param>
@@ -13314,7 +13268,9 @@
                         <description>Женский повседневный классический сарафан вельвет БАТАЛ
 Размеры: 50,52,54,56
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>8</categoryId>
+                                                                                    <picture>http://localhost/img/e5a5f09a-ab0a-4b33-97fd-bf3c644c072a.jpg</picture>
+                                                            <picture>http://localhost/img/3b18497f-ead0-45d2-8c52-eb858f7ffe8e.jpg</picture>
+                                                                                                        <categoryId>8</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">54</param>
                                                             <param name="цвет">Пудра</param>
@@ -13334,7 +13290,9 @@
                         <description>Женский повседневный классический сарафан вельвет БАТАЛ
 Размеры: 50,52,54,56
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>8</categoryId>
+                                                                                    <picture>http://localhost/img/e5a5f09a-ab0a-4b33-97fd-bf3c644c072a.jpg</picture>
+                                                            <picture>http://localhost/img/3b18497f-ead0-45d2-8c52-eb858f7ffe8e.jpg</picture>
+                                                                                                        <categoryId>8</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">56</param>
                                                             <param name="цвет">Пудра</param>
@@ -13414,7 +13372,10 @@
                         <description>Женский повседневный классический сарафан вельвет БАТАЛ
 Размеры: 50,52,54,56
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>8</categoryId>
+                                                                                    <picture>http://localhost/img/90f61b51-0441-4115-a45d-51f1e3c0518c.jpg</picture>
+                                                            <picture>http://localhost/img/82c884af-caaa-4c23-ab1f-b9b97fad770e.jpg</picture>
+                                                            <picture>http://localhost/img/40ee9dbe-453d-42b0-a1da-6543e9891add.jpg</picture>
+                                                                                                        <categoryId>8</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">52</param>
                                                             <param name="цвет">Джинс</param>
@@ -13434,7 +13395,10 @@
                         <description>Женский повседневный классический сарафан вельвет БАТАЛ
 Размеры: 50,52,54,56
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>8</categoryId>
+                                                                                    <picture>http://localhost/img/90f61b51-0441-4115-a45d-51f1e3c0518c.jpg</picture>
+                                                            <picture>http://localhost/img/82c884af-caaa-4c23-ab1f-b9b97fad770e.jpg</picture>
+                                                            <picture>http://localhost/img/40ee9dbe-453d-42b0-a1da-6543e9891add.jpg</picture>
+                                                                                                        <categoryId>8</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">54</param>
                                                             <param name="цвет">Джинс</param>
@@ -13454,7 +13418,10 @@
                         <description>Женский повседневный классический сарафан вельвет БАТАЛ
 Размеры: 50,52,54,56
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>8</categoryId>
+                                                                                    <picture>http://localhost/img/90f61b51-0441-4115-a45d-51f1e3c0518c.jpg</picture>
+                                                            <picture>http://localhost/img/82c884af-caaa-4c23-ab1f-b9b97fad770e.jpg</picture>
+                                                            <picture>http://localhost/img/40ee9dbe-453d-42b0-a1da-6543e9891add.jpg</picture>
+                                                                                                        <categoryId>8</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">56</param>
                                                             <param name="цвет">Джинс</param>
@@ -13764,7 +13731,8 @@
                         <description>Женский батник (худи) БАТАЛ
 Размер: 56 (oversize)
 Ткань: трехнитка с начесом</description>
-                                                                                                                                <categoryId>9</categoryId>
+                                                                                    <picture>http://localhost/img/00ad40c8-8836-4817-af02-d2a020c861e4.jpg</picture>
+                                                                                                        <categoryId>9</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">2</param>
                                                             <param name="цвет">Темная пудра</param>
@@ -16455,7 +16423,9 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/dfbf4925-0ca3-4a0b-b5e1-c6a85edf8891.jpg</picture>
+                                                            <picture>http://localhost/img/349bfce9-4fa7-4328-ba3c-f04db5971af5.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">140</param>
                                                             <param name="цвет">Джинс</param>
@@ -16475,7 +16445,9 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/dfbf4925-0ca3-4a0b-b5e1-c6a85edf8891.jpg</picture>
+                                                            <picture>http://localhost/img/349bfce9-4fa7-4328-ba3c-f04db5971af5.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">146</param>
                                                             <param name="цвет">Джинс</param>
@@ -16495,7 +16467,9 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/dfbf4925-0ca3-4a0b-b5e1-c6a85edf8891.jpg</picture>
+                                                            <picture>http://localhost/img/349bfce9-4fa7-4328-ba3c-f04db5971af5.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">152</param>
                                                             <param name="цвет">Джинс</param>
@@ -16515,7 +16489,9 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/dfbf4925-0ca3-4a0b-b5e1-c6a85edf8891.jpg</picture>
+                                                            <picture>http://localhost/img/349bfce9-4fa7-4328-ba3c-f04db5971af5.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">158</param>
                                                             <param name="цвет">Джинс</param>
@@ -16535,7 +16511,9 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/59e1d964-eb65-4d27-96e0-f88da794db62.jpg</picture>
+                                                            <picture>http://localhost/img/c63b2ae0-01e5-4a7d-ad1f-0b69d08df093.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">140</param>
                                                             <param name="цвет">Красный</param>
@@ -16555,7 +16533,9 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/59e1d964-eb65-4d27-96e0-f88da794db62.jpg</picture>
+                                                            <picture>http://localhost/img/c63b2ae0-01e5-4a7d-ad1f-0b69d08df093.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">146</param>
                                                             <param name="цвет">Красный</param>
@@ -16575,7 +16555,9 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/59e1d964-eb65-4d27-96e0-f88da794db62.jpg</picture>
+                                                            <picture>http://localhost/img/c63b2ae0-01e5-4a7d-ad1f-0b69d08df093.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">152</param>
                                                             <param name="цвет">Красный</param>
@@ -16595,7 +16577,9 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/59e1d964-eb65-4d27-96e0-f88da794db62.jpg</picture>
+                                                            <picture>http://localhost/img/c63b2ae0-01e5-4a7d-ad1f-0b69d08df093.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">158</param>
                                                             <param name="цвет">Красный</param>
@@ -16615,7 +16599,10 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/376190c9-322c-40c3-ac78-8042d3b085b7.jpg</picture>
+                                                            <picture>http://localhost/img/8f02bac3-7c68-422f-88ef-96239c52cb51.jpg</picture>
+                                                            <picture>http://localhost/img/8c77872e-2d14-412b-ae52-051fca3bb581.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">140</param>
                                                             <param name="цвет">Пудра</param>
@@ -16635,7 +16622,10 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/376190c9-322c-40c3-ac78-8042d3b085b7.jpg</picture>
+                                                            <picture>http://localhost/img/8f02bac3-7c68-422f-88ef-96239c52cb51.jpg</picture>
+                                                            <picture>http://localhost/img/8c77872e-2d14-412b-ae52-051fca3bb581.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">146</param>
                                                             <param name="цвет">Пудра</param>
@@ -16655,7 +16645,10 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/376190c9-322c-40c3-ac78-8042d3b085b7.jpg</picture>
+                                                            <picture>http://localhost/img/8f02bac3-7c68-422f-88ef-96239c52cb51.jpg</picture>
+                                                            <picture>http://localhost/img/8c77872e-2d14-412b-ae52-051fca3bb581.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">152</param>
                                                             <param name="цвет">Пудра</param>
@@ -16675,7 +16668,10 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/376190c9-322c-40c3-ac78-8042d3b085b7.jpg</picture>
+                                                            <picture>http://localhost/img/8f02bac3-7c68-422f-88ef-96239c52cb51.jpg</picture>
+                                                            <picture>http://localhost/img/8c77872e-2d14-412b-ae52-051fca3bb581.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">158</param>
                                                             <param name="цвет">Пудра</param>
@@ -16695,7 +16691,9 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/0e629750-50c0-4fa0-9861-e425c3d90f2f.jpg</picture>
+                                                            <picture>http://localhost/img/fdabf873-569d-4b86-b411-c9415b8e59ca.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">140</param>
                                                             <param name="цвет">Синий</param>
@@ -16715,7 +16713,9 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/0e629750-50c0-4fa0-9861-e425c3d90f2f.jpg</picture>
+                                                            <picture>http://localhost/img/fdabf873-569d-4b86-b411-c9415b8e59ca.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">146</param>
                                                             <param name="цвет">Синий</param>
@@ -16735,7 +16735,9 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/0e629750-50c0-4fa0-9861-e425c3d90f2f.jpg</picture>
+                                                            <picture>http://localhost/img/fdabf873-569d-4b86-b411-c9415b8e59ca.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">152</param>
                                                             <param name="цвет">Синий</param>
@@ -16755,7 +16757,9 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/0e629750-50c0-4fa0-9861-e425c3d90f2f.jpg</picture>
+                                                            <picture>http://localhost/img/fdabf873-569d-4b86-b411-c9415b8e59ca.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">158</param>
                                                             <param name="цвет">Синий</param>
@@ -16775,7 +16779,9 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/b3608603-c143-4430-a45b-5643252eff00.jpg</picture>
+                                                            <picture>http://localhost/img/26a84e40-847e-4ccc-b7e5-0225da379e68.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">140</param>
                                                             <param name="цвет">Черный</param>
@@ -16795,7 +16801,9 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/b3608603-c143-4430-a45b-5643252eff00.jpg</picture>
+                                                            <picture>http://localhost/img/26a84e40-847e-4ccc-b7e5-0225da379e68.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">146</param>
                                                             <param name="цвет">Черный</param>
@@ -16815,7 +16823,9 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/b3608603-c143-4430-a45b-5643252eff00.jpg</picture>
+                                                            <picture>http://localhost/img/26a84e40-847e-4ccc-b7e5-0225da379e68.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">152</param>
                                                             <param name="цвет">Черный</param>
@@ -16835,7 +16845,9 @@
                         <description>Подростковый сарафан вельвет
 Размеры: 140,146,152,158
 Ткань: вельвет</description>
-                                                                                                                                <categoryId>20</categoryId>
+                                                                                    <picture>http://localhost/img/b3608603-c143-4430-a45b-5643252eff00.jpg</picture>
+                                                            <picture>http://localhost/img/26a84e40-847e-4ccc-b7e5-0225da379e68.jpg</picture>
+                                                                                                        <categoryId>20</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">158</param>
                                                             <param name="цвет">Черный</param>
@@ -16870,11 +16882,11 @@
                         <description>Женский велюровый спортивный костюм  на змейке
 Размеры: 50,52,54,56
 Ткань: велюр</description>
-                                                                                    <picture>http://localhost/img/e133cdcb-bede-46ab-8fa7-c75c3b224dca.jpg</picture>
-                                                            <picture>http://localhost/img/cafc761c-c165-4b65-a0b7-b9422d93d6a4.jpg</picture>
+                                                                                    <picture>http://localhost/img/cafc761c-c165-4b65-a0b7-b9422d93d6a4.jpg</picture>
                                                             <picture>http://localhost/img/c9019276-6f55-46e2-b5b3-8ee5008bff92.jpg</picture>
                                                             <picture>http://localhost/img/a6c480fd-b3e6-471d-b853-34d34059f849.jpg</picture>
                                                             <picture>http://localhost/img/d19adcdd-a5cc-49fe-a2f0-93fc1d9d1e63.jpg</picture>
+                                                            <picture>http://localhost/img/e133cdcb-bede-46ab-8fa7-c75c3b224dca.jpg</picture>
                                                                                                         <categoryId>7</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">56</param>
@@ -19385,8 +19397,8 @@
                             <opt_price>340</opt_price>
                         </prices>
                         <description></description>
-                                                                                    <picture>http://localhost/img/f6dca441-807f-46fa-aeb1-1c0efd0014a0.jpg</picture>
-                                                            <picture>http://localhost/img/e35a7f85-41e7-4364-bbfc-577327768da9.jpg</picture>
+                                                                                    <picture>http://localhost/img/e35a7f85-41e7-4364-bbfc-577327768da9.jpg</picture>
+                                                            <picture>http://localhost/img/f6dca441-807f-46fa-aeb1-1c0efd0014a0.jpg</picture>
                                                                                                         <categoryId>7</categoryId>
                                                 <currencyId>UAH</currencyId>
                                                                                     <param name="размер">48</param>
