@@ -43,11 +43,12 @@ class ProcessImageThumbnails implements ShouldQueue
         $image = $this->image;
         $uuid = $image->uuid;
         $filename = 'processing';
-        $tempImage = tempnam(sys_get_temp_dir(), $filename);
+        $tempImage = tempnam("/var/www/html/storage/tmp/", $filename);
         $response = Http::timeout(180)
             ->sink($tempImage)
             ->withBasicAuth($this->username, $this->password)
             ->get('https://online.moysklad.ru/api/remap/1.2/' . self::$entityName . '/' . $uuid);
         file_put_contents("/var/www/html/public/img/" . $uuid . '.jpg', $response->getBody()->getContents());
+        unlink($tempImage);
     }
 }

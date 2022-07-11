@@ -10,22 +10,27 @@ use App\Models\Product;
 use App\Models\ProductToCategory;
 use App\Models\Stock;
 use App\Models\Variant;
+use DateTime;
 
 class XMLController extends Controller
 {
     public function index()
     {
+        $date = new DateTime();
+        $date->modify('-8 hours');
+        $formatted_date = $date->format('Y-m-d H:i:s');
+
         $all_price_types = array(
             "Цена опт" => "opt_price",
             "Цена продажи" => "default_price",
             "Цена дроп" => "drop_price");
 
         $categories = Category::all()->toArray();
-        $products = Product::all()->toArray();
-        $variants = Variant::all()->toArray();
+        $products = Product::where('name', 'not like', "%Распродажа%")->get()->toArray();
+        $variants = Variant::where('name', 'not like', "%Распродажа%")->get()->toArray();
         $prices = Price::all()->toArray();
         $stocks = Stock::all()->toArray();
-        $images = Image::all()->toArray();
+        $images = Image::where('updated_at', '>',$formatted_date)->get()->toArray();
         $characteristics = Characteristic::all()->toArray();
         $product_to_category = ProductToCategory::all()->toArray();
         $formed_products = [];
@@ -97,7 +102,21 @@ class XMLController extends Controller
             ]
         )->header('Content-Type', 'text/xml');
 
-        file_put_contents("/var/www/html/public/map.xml", $response->getContent());
+        file_put_contents("/var/www/html/public/doc/map.xml", $response->getContent());
+
+        foreach ($formed_products as $formed_product){
+            $grouped_products[$formed_product["product"]["group"]][] = $formed_product;
+        }
+
+        $response_prom = response()->view(
+            'pages.xml-prom',
+            [
+                'products' => $formed_products,
+                'categories' => $categories,
+            ]
+        )->header('Content-Type', 'text/xml');
+
+        file_put_contents("/var/www/html/public/doc/prom.xml", $response_prom->getContent());
 
         return $response;
     }

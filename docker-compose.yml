@@ -47,6 +47,7 @@ services:
     queue:
         image: sail-8.1/app
         stop_signal: SIGTERM
+        restart: always
         extra_hosts:
             - 'host.docker.internal:host-gateway'
         environment:

@@ -23,6 +23,8 @@ class CategoryController extends Controller
      */
     public function fetch(): bool
     {
+        Category::truncate();
+
         $response = Http::withBasicAuth($this->username, $this->password)
             ->get('https://online.moysklad.ru/api/remap/1.2/entity/' . self::$entityName . '/', []);
 

@@ -74,6 +74,8 @@ class VariantController extends Controller
             }
         }
 
+        Characteristic::truncate();
+
         foreach ($characteristics_array as $character => $value) {
             foreach ($value as $ch) {
                 Characteristic::updateOrCreate(
